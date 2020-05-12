@@ -4,6 +4,7 @@
 @import "landing-page.css";
 @import "introduction.css";
 @import "footer.css";
+@import "skills.css";
 
 * {
   box-sizing: border-box;
