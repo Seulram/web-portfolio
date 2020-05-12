@@ -5,6 +5,7 @@
 @import "introduction.css";
 @import "footer.css";
 @import "skills.css";
+@import "projects.css";
 
 * {
   box-sizing: border-box;
