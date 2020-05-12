@@ -59,5 +59,4 @@ function scroll() {
 for (let index = 0; index < headerItem.length; index++) {
   headerItem[index].addEventListener("click", click);
 }
-
 window.addEventListener("scroll", scroll);
