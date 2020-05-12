@@ -1,0 +1,37 @@
+.introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: #211915;
+}
+
+.introduction .introduction__wrapper {
+  width: 100%;
+  max-width: 835px;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  flex-direction: column;
+  letter-spacing: 2px;
+}
+
+.introduction .intro {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 40px 0px;
+}
+
+.introduction .paragraph {
+  line-height: 1.5em;
+}
+
+.paragraph:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.paragraph:last-child {
+  margin-bottom: 80px;
+}
