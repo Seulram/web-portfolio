@@ -31,7 +31,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 40px;
+  max-width: 835px;
+  margin-bottom: 80px;
 }
 
 .projects .image__container {
@@ -49,7 +50,7 @@
 }
 
 .projects .project__container {
-  width: 80%;
+  width: 600px;
   max-width: 935px;
   text-align: justify;
   letter-spacing: 2px;
@@ -106,9 +107,10 @@
 }
 
 .projects .technology {
-  background-color: #999;
+  background-color: #718093;
   color: white;
   font-size: 12px;
+  font-weight: 600;
   padding: 5px;
   border-radius: 5px;
   margin: 10px 0px;
